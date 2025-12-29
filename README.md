@@ -1,4 +1,4 @@
-# Smart Nearby Places Recommender
+# MoodMap
 
 A web application that recommends nearby places based on the user’s **mood and intent**, helping users quickly find the most suitable spots around them.
 
