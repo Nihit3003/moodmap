@@ -1,0 +1,7 @@
+{
+  "name": "MoodMap",
+  "description": "A smart local recommendation engine that suggests places based on your current mood using AI and Maps data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
