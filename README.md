@@ -31,8 +31,13 @@ A web application that recommends nearby places based on the user’s **mood and
 
 ---
 
+# Note
+- Create a .env file and add your API keys before running the project.
+
 # Project Setup
 
 ```bash
 npm install
 npm run dev
+
+
